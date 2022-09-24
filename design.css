@@ -1,0 +1,49 @@
+h1
+{
+    font-family: 'Trocchi', serif;
+    font-size: 20px;
+    float: right;
+    margin-right: 79%;
+    color: rgb(254, 79, 114);
+    background-color: rgb(255, 246, 234);
+    
+}
+
+.icon__header
+{
+    font-size: 50px;
+    color: rgba(247, 146, 103, 0.681);
+    border: 3px;
+
+}
+
+.logo
+{
+    margin-top: 5%;
+    margin-left: 7%;
+    border-radius: 80%;
+}
+
+img
+{
+    width: 400px;
+}
+
+body
+{
+    background-color: rgb(205, 208, 181);
+}
+
+.slogan
+{
+    width: 600px;
+    display: block;
+    position:absolute;
+    float: right;
+    margin-top: -13%;
+    margin-left: 27%;
+    font-size: 50px;
+    background-color: white;
+    padding: 40px;
+    border-radius: 20%;
+}
